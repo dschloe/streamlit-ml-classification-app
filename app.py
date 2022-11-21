@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 import streamlit as st
-mport streamlit as st 
+import streamlit as st 
 import pandas as pd 
 import matplotlib as mpl
 import seaborn as sns 
